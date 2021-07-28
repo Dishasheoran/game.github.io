@@ -1,0 +1,36 @@
+body{
+  background-color: #512D6D;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Montserrat';
+font-weight: bold;
+font-size: 3rem;
+line-height: 1.5;
+}
+
+iframe{
+  width: 100%;
+
+}
+
+.top{
+  margin: 50px auto 50px;
+  background-color: #28FFBF;
+padding: 3% 2%;
+  height: auto;
+}
+
+.bottom{
+  position: relative;
+  width: 100%;
+  bottom: 0;
+  background-color: #fff;
+  padding: 5px;
+}
+.copyright{
+  text-align: center;
+  color: #000;
+  font-size: 1rem;
+}
